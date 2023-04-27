@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 //  VOID: Quando uma função ou método não retorna nada. ex console.log()
 
 function semRetorno(...args: string[]): void {
