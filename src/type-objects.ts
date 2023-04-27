@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 //  string = refere-se a chaveA chaveB ; unknown = refere-se Valor A Valor B ; unknown é mais genérico que any
 //  A tipagem abaixo elimina o auto complete pra digitar as posições do objeto
 //  Não muito recomendado
